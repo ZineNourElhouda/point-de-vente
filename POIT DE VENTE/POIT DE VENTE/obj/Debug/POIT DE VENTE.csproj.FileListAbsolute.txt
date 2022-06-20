@@ -1,0 +1,42 @@
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\bin\Debug\POIT DE VENTE.exe.config
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\bin\Debug\POIT DE VENTE.exe
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\bin\Debug\POIT DE VENTE.pdb
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT DE VENTE.csproj.AssemblyReference.cache
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_LOGIN.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.Properties.Resources.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT DE VENTE.csproj.GenerateResource.cache
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT DE VENTE.csproj.CoreCompileInputs.cache
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT DE VENTE.exe
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT DE VENTE.pdb
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_MAIN.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_ADD_PRODUCT.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_PRODUCTS.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_CUSTOMERS.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_PREVIEW.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_ORDERS.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_CUSTOMERS_LIST.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_PRODUCTS_LIST.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\bin\Debug\MetroFramework.dll
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT DE VENTE.csproj.CopyComplete
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\bin\Debug\POIT DE VENTE.exe.config
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\bin\Debug\POIT DE VENTE.exe
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\bin\Debug\POIT DE VENTE.pdb
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\bin\Debug\MetroFramework.dll
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT DE VENTE.csproj.AssemblyReference.cache
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_ADD_PRODUCT.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_CUSTOMERS.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_CUSTOMERS_LIST.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_LOGIN.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_MAIN.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_ORDERS.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_PREVIEW.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_PRODUCTS.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.PL.FRM_PRODUCTS_LIST.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT_DE_VENTE.Properties.Resources.resources
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT DE VENTE.csproj.GenerateResource.cache
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT DE VENTE.csproj.CoreCompileInputs.cache
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT DE VENTE.csproj.CopyComplete
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT DE VENTE.exe
+C:\Users\Zine Nour Elhouda\source\repos\POIT DE VENTE\POIT DE VENTE\POIT DE VENTE\obj\Debug\POIT DE VENTE.pdb
